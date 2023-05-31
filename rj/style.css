@@ -1,0 +1,36 @@
+body{
+	border: 1px solid black;
+	margin: 20px;
+	
+	text-align: center;
+	background-image: url("br.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-weight: bold;
+}
+h1{
+	color: solid black;
+	font-family: copperplate, arial;
+}
+table{
+	border: 1px solid black;
+	display: inline-block;
+	margin: 15px;
+	font-size: 16px;
+	background-image: url("background.jpg"); 
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+th{
+	border-bottom: 1px solid black;
+	border-right: 1px solid black;
+}
+.red{
+	color: red;
+}
+td{
+	font-size: 18px;
+}
+
